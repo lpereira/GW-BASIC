@@ -12,7 +12,7 @@ the [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) as per
 the [LICENSE file](https://github.com/Microsoft/GW-BASIC/blob/master/LICENSE) stored in
 the root of this repo.
 
-The conversion tool, `conv.py`, is released under GNU GPL version 2.
+The conversion tool, [`conv`](conv), is released under GNU GPL version 2.
 
 ## Contributing
 
